@@ -1,0 +1,19 @@
+{
+  "name": "hello-world-react",
+  "version": "1.0.0",
+  "description": "test for webpack babel and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UK-Postal-Service/Hello-World-React.git"
+  },
+  "author": "Robert Formosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UK-Postal-Service/Hello-World-React/issues"
+  },
+  "homepage": "https://github.com/UK-Postal-Service/Hello-World-React#readme"
+}
